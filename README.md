@@ -27,14 +27,15 @@ If you'd like to follow the session interactively, ensure you have these tools i
 
 The slides accompanying the talk can be found in the repository at the following link:
 
-- [UnmaskingTheGodfather.pdf](https://github.com/LaurieWired/BsidesSeattle2023/blob/main/UnmaskingTheGodfather.pdf)
+- [UnmaskingTheGodfather.pdf](https://github.com/LaurieWired/StrangeLoop/blob/main/UnmaskingTheGodfather_strangeloop.pdf)
 
 ---
 
 ## :bug: **Marked Up Sample**
 
 My fully marked up Godfather Sample can be found at the following link:
-FIXME
+
+- [marked_up_godfather_jadx](https://github.com/LaurieWired/StrangeLoop/blob/main/marked_up_godfather_a14aad1265eb3.jadx)
 
 ---
 
