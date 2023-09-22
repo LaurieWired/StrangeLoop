@@ -1,6 +1,6 @@
 <div align="center">
 
-![godfather_art1](https://github.com/LaurieWired/StrangeLoop/assets/123765654/f0b9b7b7-354d-4958-89a6-08473bbbf94d)
+![godfather_art1](https://github.com/LaurieWired/StrangeLoop/assets/123765654/0a8022ff-7f1e-4722-9135-7e957c482f03)
 
 </div>
 
