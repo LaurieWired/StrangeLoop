@@ -1,0 +1,2094 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "Receivers",
+      "thenextbiggeek.squidgamewallpaper",
+      "com",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "Services",
+      "thenextbiggeek.squidgamewallpaper",
+      "com",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "Network",
+      "thenextbiggeek.squidgamewallpaper",
+      "com",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "Activitys",
+      "thenextbiggeek.squidgamewallpaper",
+      "com",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ],
+    [
+      "net.godfather.thegodfather",
+      "Source code",
+      "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.uncommanderlikeFeala"
+        },
+        "comment": "startUSSD command"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m8bb994620b5(Landroid/content/Context;Landroid/view/accessibility/AccessibilityNodeInfo;Landroidx/core/view/accessibility/AccessibilityNodeInfoCompat;Landroid/view/accessibility/AccessibilityEvent;Landroid/view/accessibility/AccessibilityNodeInfo;)V"
+        },
+        "comment": "LAURIE: Not decompiled, but this is the main instrumenation method to calling the methods to perform the accessibility abuse and trigger the fake WebViews"
+      }
+    ],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.AlectoPennariidae"
+        },
+        "newName": "mw_PopupAccessibilityToast"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.Penningtonflatlings"
+        },
+        "newName": "mw_RestartMainClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.Swayderwiesenboden"
+        },
+        "newName": "mw_StartScreenRecordingClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.Thapsiahorol"
+        },
+        "newName": "mw_AlertSystemFilesCannotBeRemovedClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.anociationnumen"
+        },
+        "newName": "mw_bookSMS_deprecated"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.coedpreparatives"
+        },
+        "newName": "mw_OpenMaintenanceWebViewClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.grandeeshipunmovablety"
+        },
+        "newName": "mw_StartDeviceAdminReceiver"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.ligninsulphonateBCE"
+        },
+        "newName": "mw_OpenURLInBrowserClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.rematchesAdullamite"
+        },
+        "newName": "mw_StealPhoneContactData"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.sleweyedfifish"
+        },
+        "newName": "mw_MainClassWithoutAlarm"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.solvsbergiteowse"
+        },
+        "newName": "mw_LegitAndroidURLWebviewLoad"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses"
+        },
+        "newName": "mw_CreateWebViewFromUrlClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.uncommanderlikeFeala"
+        },
+        "newName": "mw_CallPhoneClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unshakeableearthgoddess"
+        },
+        "newName": "mw_RunDelayedThread"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller"
+        },
+        "newName": "mw_AccessibilityWebViewAbuseClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.Occidentaliseddilutely"
+        },
+        "newName": "mw_StartSocketCommunication"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.PWDileectomy"
+        },
+        "newName": "mw_StreamWriterClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.gattootheddaydreamed"
+        },
+        "newName": "mw_SocketCommunicationClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded"
+        },
+        "newName": "mw_C2ServerClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.MyrmicidaeAlabamian"
+        },
+        "newName": "mw_TriggerAccessibilityNotifAndSetupClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.ethnographernucleonics"
+        },
+        "newName": "mw_TriggerSetupAndAlarm"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.stonyjointednonretrenchment"
+        },
+        "newName": "mw_DeviceAdminReceiverClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.unfelehotdogger"
+        },
+        "newName": "mw_TriggerSetupClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Amerosteamerload"
+        },
+        "newName": "mw_TriggerAccessibilityNotif"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen"
+        },
+        "newName": "mw_LockScreenClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator"
+        },
+        "newName": "mw_CreateNotificationForWebViewClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment"
+        },
+        "newName": "mw_RecordScreenToMp4Class"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.unplasteraseptolin"
+        },
+        "newName": "mw_BatteryStateChangedListenerClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.consulsalpingoscope"
+        },
+        "newName": "mw_EncryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.gripeyjetsom"
+        },
+        "newName": "mw_EncodedStringStorage"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness"
+        },
+        "newName": "mw_CommandSyncClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory"
+        },
+        "newName": "mw_DoSetup"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.nonrecuperativesoulfostered"
+        },
+        "newName": "mw_C2StringsClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan"
+        },
+        "newName": "mw_MainClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants"
+        },
+        "newName": "mw_StringEncryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory"
+        },
+        "newName": "mw_MainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "net.godfather.thegodfather.Ashkenazmonological"
+        },
+        "newName": "mw_StringsStorageClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "net.godfather.thegodfather.crossbencherteliferous"
+        },
+        "newName": "mw_StartScreenRecordingClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.Swayderwiesenboden",
+          "shortId": "f9cd17423:Landroid/media/projection/MediaProjectionManager;"
+        },
+        "newName": "mw_mediaProjectionManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.Thapsiahorol",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.anociationnumen",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.coedpreparatives",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.coedpreparatives",
+          "shortId": "fb3918665:Lcom/thenextbiggeek/squidgamewallpaper/consulsalpingoscope;"
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.grandeeshipunmovablety",
+          "shortId": "f14bc6100:Landroid/content/ComponentName;"
+        },
+        "newName": "mw_deviceAdminReceiverClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.rematchesAdullamite",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "f0bdbb2c3:Lcom/thenextbiggeek/squidgamewallpaper/nonrecuperativesoulfostered;"
+        },
+        "newName": "mw_c2StringsClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "fb3918665:Lcom/thenextbiggeek/squidgamewallpaper/consulsalpingoscope;"
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "fb80bb774:Ljava/lang/String;"
+        },
+        "newName": "mw_stringExtraId"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.uncommanderlikeFeala",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unshakeableearthgoddess",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "f44cbd20c:Lcom/thenextbiggeek/squidgamewallpaper/consulsalpingoscope;"
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f0196f6c4:Ljava/io/DataOutputStream;"
+        },
+        "newName": "mw_dataOutputStream"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f0c1d0e2e:Ljava/net/HttpURLConnection;"
+        },
+        "newName": "mw_httpURLConnection"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f51ef5995:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f52f59a9f:Ljava/lang/String;"
+        },
+        "newName": "mw_str_return_newline"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f56e27933:Ljava/lang/String;"
+        },
+        "newName": "mw_str_dashdash"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f7f2db423:[B"
+        },
+        "newName": "mw_byteArray"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "f81fd830c:Ljava/lang/String;"
+        },
+        "newName": "mw_str_stars"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "fcdee5967:I"
+        },
+        "newName": "mw_mathMin"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "fd1fc8eaf:Ljava/lang/String;"
+        },
+        "newName": "mw_bufferReadString"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller$ThreadTask",
+          "shortId": "fd871906e:I"
+        },
+        "newName": "mw_fileInputStreamBytes"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.Occidentaliseddilutely",
+          "shortId": "f2b3583e6:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.Occidentaliseddilutely",
+          "shortId": "fecacffff:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.PWDileectomy",
+          "shortId": "f13b5bfe9:Ljava/io/InputStream;"
+        },
+        "newName": "mw_inputStream"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.PWDileectomy",
+          "shortId": "f5e259b61:I"
+        },
+        "newName": "mw_const_102400"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.PWDileectomy",
+          "shortId": "fc68271a6:Ljava/io/OutputStream;"
+        },
+        "newName": "mw_outputStream"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.gattootheddaydreamed",
+          "shortId": "f5e259b61:I"
+        },
+        "newName": "mw_int_102400"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Network.gattootheddaydreamed",
+          "shortId": "f61f25293:Ljava/net/Socket;"
+        },
+        "newName": "mw_socket"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.MyrmicidaeAlabamian",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Receivers.stonyjointednonretrenchment",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Amerosteamerload",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen",
+          "shortId": "f6c44d93e:Landroid/view/WindowManager;"
+        },
+        "newName": "mw_windowManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen",
+          "shortId": "fecacffff:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator",
+          "shortId": "fb3918665:Lcom/thenextbiggeek/squidgamewallpaper/consulsalpingoscope;"
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator",
+          "shortId": "feec38a6d:Lcom/thenextbiggeek/squidgamewallpaper/nonrecuperativesoulfostered;"
+        },
+        "newName": "mw_c2StringsClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "f28b569d3:Ljava/lang/String;"
+        },
+        "newName": "mw_url"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "f51ef5995:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "f78e73102:Ljava/lang/String;"
+        },
+        "newName": "mw_pushText"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "fb28354b5:Ljava/lang/String;"
+        },
+        "newName": "mw_stringExtraAppName"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "fd5d3db17:Ljava/lang/String;"
+        },
+        "newName": "mw_pushTitle"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f02664b51:Landroid/hardware/display/VirtualDisplay;"
+        },
+        "newName": "mw_mediaProjectionVirualDisplay"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f1d0d5408:Ljava/lang/String;"
+        },
+        "newName": "mw_str_result_data_media_projection"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f40327252:Ljava/lang/String;"
+        },
+        "newName": "mw_str_result_code_media_projection"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f8039eba0:Landroid/media/MediaRecorder;"
+        },
+        "newName": "mw_mediaRecorder"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "f9cd17423:Landroid/media/projection/MediaProjectionManager;"
+        },
+        "newName": "mw_mediaProjectionManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "fa560f122:Landroid/media/projection/MediaProjection;"
+        },
+        "newName": "mw_mediaProjection"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "fab5adbec:Ljava/lang/String;"
+        },
+        "newName": "mw_str_action_handle_media_projection_result"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "fe5ced19e:I"
+        },
+        "newName": "mw_intExtra"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.seamlessnessminiseries",
+          "shortId": "fecacffff:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.unplasteraseptolin",
+          "shortId": "fca09e336:Landroid/content/BroadcastReceiver;"
+        },
+        "newName": "mw_batteryBroadcastReceiver"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.gripeyjetsom",
+          "shortId": "fb56587df:[Ljava/lang/String;"
+        },
+        "newName": "mw_str_systemFilesCannotBeRemoved"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "f3202ba8c:Landroid/os/PowerManager;"
+        },
+        "newName": "mw_powerManager"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "f69e45e7e:Landroid/os/PowerManager$WakeLock;"
+        },
+        "newName": "mw_powerManagerWakelock"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "fa310e765:Ljava/lang/String;"
+        },
+        "newName": "mw_isDeviceAdmin"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "fecacffff:Landroid/content/Context;"
+        },
+        "newName": "mw_context"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.nonrecuperativesoulfostered",
+          "shortId": "fe08392bb:Ljava/lang/String;"
+        },
+        "newName": "mw_str_aks_php"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f0ba4439e:Z"
+        },
+        "newName": "mw_hasRunBefore"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f2d6fa29c:Landroid/widget/TextView;"
+        },
+        "newName": "mw_recentScannedTextView"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f3e50006e:Landroid/widget/TextView;"
+        },
+        "newName": "mw_ScanningTextView"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f4913c2bc:Landroid/widget/TextView;"
+        },
+        "newName": "mw_ScanningProgressView"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f53aefec0:Landroid/widget/Button;"
+        },
+        "newName": "mw_scanButton"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f805f8947:Lpl/droidsonroids/gif/GifDrawable;"
+        },
+        "newName": "mw_gif1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "fecc1ac1c:[Ljava/lang/String;"
+        },
+        "newName": "mw_countriesExcludeList"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "f08406a6e:Ljavax/crypto/Cipher;"
+        },
+        "newName": "mw_cipher"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "f0d734a1d:Ljava/lang/String;"
+        },
+        "newName": "mw_stringConst2"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "f297e7357:[C"
+        },
+        "newName": "mw_byteArray"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "f3720ba7a:Ljavax/crypto/spec/SecretKeySpec;"
+        },
+        "newName": "mw_secretKeySpec"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "f6c6d1ff9:Ljavax/crypto/spec/IvParameterSpec;"
+        },
+        "newName": "mw_IV"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "ff0b53b2d:Ljava/lang/String;"
+        },
+        "newName": "mw_stringConst1"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "f41275a53:[Ljava/lang/String;"
+        },
+        "newName": "mw_permissionArray"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "f51dfa65d:Lcom/thenextbiggeek/squidgamewallpaper/jiltpitifulness;"
+        },
+        "newName": "mw_commandSyncClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "f8cd892b7:Lcom/thenextbiggeek/squidgamewallpaper/gripeyjetsom;"
+        },
+        "newName": "mw_encodedStringStorage"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "fa5253dd8:Lcom/thenextbiggeek/squidgamewallpaper/virilizationmisinformants;"
+        },
+        "newName": "mw_stringEncryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "fb3918665:Lcom/thenextbiggeek/squidgamewallpaper/consulsalpingoscope;"
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "fdb974238:Lcom/thenextbiggeek/squidgamewallpaper/Pimpinellarerecorded;"
+        },
+        "newName": "mw_c2ServerClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "feec38a6d:Lcom/thenextbiggeek/squidgamewallpaper/nonrecuperativesoulfostered;"
+        },
+        "newName": "mw_c2StringsClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "net.godfather.thegodfather.InputService",
+          "shortId": "f7123a699:Lnet/godfather/thegodfather/InputService;"
+        },
+        "newName": "mw_inputService"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "net.godfather.thegodfather.InputService",
+          "shortId": "f803a7a4f:Lnet/godfather/thegodfather/InputService$GestureCallback;"
+        },
+        "newName": "mw_gestureCallback"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "net.godfather.thegodfather.InputService",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "net.godfather.thegodfather.crossbencherteliferous",
+          "shortId": "f87db16cb:Lcom/thenextbiggeek/squidgamewallpaper/visonvehiculatory;"
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.rematchesAdullamite",
+          "shortId": "m39744688b75()Z"
+        },
+        "newName": "mw_checkSelfPermissions"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.rematchesAdullamite",
+          "shortId": "m9bcd8f42bee()V"
+        },
+        "newName": "mw_requestPermissions"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "onStart()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65538
+        },
+        "newName": "mw_stringExtraAppName"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+          "shortId": "onStart()V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131076
+        },
+        "newName": "mw_webView"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Activitys.unshakeableearthgoddess",
+          "shortId": "m31b16de0bd7()V"
+        },
+        "newName": "mw_addWindowFlags"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m297cfdf0864(Landroid/view/accessibility/AccessibilityNodeInfo;Ljava/lang/String;)Landroid/view/accessibility/AccessibilityNodeInfo;"
+        },
+        "newName": "mw_findDataInAccessibilityNode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m35f8228b20e(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "newName": "mw_getAppName"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m4d9806a090c(Landroid/content/Context;Landroid/view/accessibility/AccessibilityNodeInfo;)Ljava/lang/String;"
+        },
+        "newName": "mw_findPasswordEntryInAccessibilityNode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m518fa645e6f(Landroid/view/accessibility/AccessibilityEvent;)Ljava/lang/String;"
+        },
+        "newName": "mw_buildAccessibilityEventString"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m59d7b599513(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "newName": "mw_startScreenRecording"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m59f30cb57dc(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "newName": "mw_callSendKeyLog"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m716f6b30598(Landroid/content/Context;)V"
+        },
+        "newName": "mw_launchHome"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m7ab4e2539e9(Landroid/content/Context;Landroid/view/accessibility/AccessibilityNodeInfo;)V"
+        },
+        "newName": "mw_scrollNodeContentForward"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "m8bb994620b5(Landroid/content/Context;Landroid/view/accessibility/AccessibilityNodeInfo;Landroidx/core/view/accessibility/AccessibilityNodeInfoCompat;Landroid/view/accessibility/AccessibilityEvent;Landroid/view/accessibility/AccessibilityNodeInfo;)V"
+        },
+        "newName": "mw_triggerAccessibilityWebViewAbuse"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "mae2087821b5(Landroid/view/accessibility/AccessibilityNodeInfo;)Landroid/view/accessibility/AccessibilityNodeInfo;"
+        },
+        "newName": "mw_returnAccessibilityPasswordNode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "maffd3592809(Landroid/content/Context;Landroid/view/accessibility/AccessibilityNodeInfo;)Ljava/lang/String;"
+        },
+        "newName": "mw_getAccessibilityNodePattern"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "mb070819d363(Landroid/content/Context;Ljava/lang/String;)Z"
+        },
+        "newName": "mw_triggerScreenRecording"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "me195605dffa(Ljava/io/BufferedReader;)Ljava/lang/String;"
+        },
+        "newName": "mw_readBuffer"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+          "shortId": "mf8f8f0f3df2(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "mw_replaceAppWithOverlay"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65539
+        },
+        "newName": "mw_callPhoneIntent"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131072
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196608
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262144
+        },
+        "newName": "mw_decodedCommandString"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 983040
+        },
+        "newName": "mw_commandString"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "SendCommand(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196612
+        },
+        "newName": "mw_outputStreamWriter"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+          "shortId": "m3f926b4ddb2(Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "newName": "mw_encodeURLParams"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Amerosteamerload",
+          "shortId": "get_Re(Landroid/content/Context;)V"
+        },
+        "newName": "mw_runAccessibilityRequestThread"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen",
+          "shortId": "mf69c175a082()V"
+        },
+        "newName": "mw_startWaitForLock"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator",
+          "shortId": "onHandleIntent(Landroid/content/Intent;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 4
+        },
+        "newName": "mw_stringExtraAppName"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator$generatePictureStyle",
+          "shortId": "\u003cinit\u003e(Lcom/thenextbiggeek/squidgamewallpaper/Services/Wienckeenervator;Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196608
+        },
+        "newName": "mw_pushTitle"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+          "shortId": "m75534f89e1f(ILandroid/content/Intent;)V"
+        },
+        "newName": "mw_recordMedia"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.seamlessnessminiseries",
+          "shortId": "ma323ea023a8(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checkScreenLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.Services.unplasteraseptolin",
+          "shortId": "m3d81756266e(I)Ljava/lang/String;"
+        },
+        "newName": "mw_batterStatusCheck"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.consulsalpingoscope",
+          "shortId": "manifo(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "mw_blowfishEncrypt"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "mw_encryptionClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "mw_decodedCommand"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 196610
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "Commands(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 262149
+        },
+        "newName": "mw_trimmedCommand"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "SendIN(Landroid/content/Context;Ljava/lang/String;Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "newName": "mw_startReceivingCommands"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "hola(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 3
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "m3f926b4ddb2(Ljava/util/HashMap;)Ljava/lang/String;"
+        },
+        "newName": "mw_urlEncoder"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "ma323ea023a8(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checkScreenLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+          "shortId": "video_recorder(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 65537
+        },
+        "newName": "mw_mainWorkClass"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "m3d6f219951b()V"
+        },
+        "newName": "mw_ignoreBatteryOptimizations"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+          "shortId": "ma323ea023a8(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checkDeviceLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "m3d147d92ebf()V"
+        },
+        "newName": "mw_setTextNoHarmfulApps"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "mae52e915c99()V"
+        },
+        "newName": "mw_setScanningView"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "mc77d0eec94f()V"
+        },
+        "newName": "mw_scanningGif"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+          "shortId": "me37f0136aa3()V"
+        },
+        "newName": "mw_setPostScanText"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "m6d15aa65587([B)Ljava/lang/String;"
+        },
+        "newName": "mw_stringEncode1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "ma8f0943ed6b(Ljava/lang/String;)[B"
+        },
+        "newName": "mw_stringEncode2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+          "shortId": "mc466267f85b(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "mw_stringEncode3"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "DefaultVariable(Landroid/content/Context;)V"
+        },
+        "codeRef": {
+          "attachType": "VAR",
+          "index": 131077
+        },
+        "newName": "mw_language"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "DefaultVariable(Landroid/content/Context;)V"
+        },
+        "newName": "mw_setSharedPreferences"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "m1df9ee86ec2(Landroid/content/Context;Ljava/lang/String;J)V"
+        },
+        "newName": "mw_setRepeatingAlarm"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "m2aa38e0d9a2()Z"
+        },
+        "newName": "mw_emulatorCheck1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "m9a2864f600e(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checkNetworkConnectivity"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "ma323ea023a8(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checkPhoneLocked"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "mdd0bd43ff90(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "mw_base64Decode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "me5c7725b0e8(I)Ljava/lang/String;"
+        },
+        "newName": "mw_randomNumberGenerator"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "me7a8e8f2542()Z"
+        },
+        "newName": "mw_emulatorCheck2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "mf1329d5adeb(Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "mw_base64Encode"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+          "shortId": "sendLogData(Landroid/content/Context;Ljava/lang/String;)V"
+        },
+        "newName": "mw_receiveCommandFromC2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "net.godfather.thegodfather.InputService",
+          "shortId": "m8bab01028ac()Lnet/godfather/thegodfather/InputService;"
+        },
+        "newName": "mw_returnInputService"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 2761,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.telomiticLaputan",
+      "subPath": "java",
+      "caret": 12220,
+      "view": {
+        "x": 0,
+        "y": 5366
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.decryptassetmanager.DecryptAsset",
+      "subPath": "java",
+      "caret": 2336,
+      "view": {
+        "x": 0,
+        "y": 529
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "net.godfather.thegodfather.MainService",
+      "subPath": "java",
+      "caret": 2123,
+      "view": {
+        "x": 0,
+        "y": 2040
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Receivers.MyrmicidaeAlabamian",
+      "subPath": "java",
+      "caret": 576,
+      "view": {
+        "x": 0,
+        "y": 16
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.visonvehiculatory",
+      "subPath": "java",
+      "caret": 2052,
+      "view": {
+        "x": 0,
+        "y": 519
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.rematchesAdullamite",
+      "subPath": "java",
+      "caret": 615,
+      "view": {
+        "x": 0,
+        "y": 2135
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.jiltpitifulness",
+      "subPath": "java",
+      "caret": 14275,
+      "view": {
+        "x": 0,
+        "y": 6552
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "net.godfather.thegodfather.InputService",
+      "subPath": "java",
+      "caret": 1231,
+      "view": {
+        "x": 0,
+        "y": 11350
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "net.godfather.thegodfather.crossbencherteliferous",
+      "subPath": "java",
+      "caret": 453,
+      "view": {
+        "x": 0,
+        "y": 249
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "net.godfather.thegodfather.Ashkenazmonological",
+      "subPath": "java",
+      "caret": 153,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.solvsbergiteowse",
+      "subPath": "java",
+      "caret": 359,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.Amerosteamerload",
+      "subPath": "java",
+      "caret": 930,
+      "view": {
+        "x": 0,
+        "y": 254
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.AlectoPennariidae",
+      "subPath": "java",
+      "caret": 390,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.gripeyjetsom",
+      "subPath": "java",
+      "caret": 7106,
+      "view": {
+        "x": 0,
+        "y": 1362
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.midsentenceprefecundatory",
+      "subPath": "java",
+      "caret": 1252,
+      "view": {
+        "x": 0,
+        "y": 420
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.sleweyedfifish",
+      "subPath": "java",
+      "caret": 923,
+      "view": {
+        "x": 0,
+        "y": 140
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.Penningtonflatlings",
+      "subPath": "java",
+      "caret": 451,
+      "view": {
+        "x": 0,
+        "y": 16
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Pimpinellarerecorded",
+      "subPath": "java",
+      "caret": 8236,
+      "view": {
+        "x": 0,
+        "y": 2654
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.anociationnumen",
+      "subPath": "java",
+      "caret": 647,
+      "view": {
+        "x": 0,
+        "y": 274
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.consulsalpingoscope",
+      "subPath": "java",
+      "caret": 319,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.nonrecuperativesoulfostered",
+      "subPath": "java",
+      "caret": 608,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.uncommanderlikeFeala",
+      "subPath": "java",
+      "caret": 447,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.ligninsulphonateBCE",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.Wienckeenervator",
+      "subPath": "java",
+      "caret": 1054,
+      "view": {
+        "x": 0,
+        "y": 51
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.unbodilinesscostlinesses",
+      "subPath": "java",
+      "caret": 5629,
+      "view": {
+        "x": 0,
+        "y": 1717
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.grandeeshipunmovablety",
+      "subPath": "java",
+      "caret": 464,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Receivers.stonyjointednonretrenchment",
+      "subPath": "java",
+      "caret": 689,
+      "view": {
+        "x": 0,
+        "y": 54
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.VivaColleen",
+      "subPath": "java",
+      "caret": 727,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.unplasteraseptolin",
+      "subPath": "java",
+      "caret": 516,
+      "view": {
+        "x": 0,
+        "y": 73
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Receivers.unfelehotdogger",
+      "subPath": "java",
+      "caret": 385,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Receivers.ethnographernucleonics",
+      "subPath": "java",
+      "caret": 493,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.seamlessnessminiseries",
+      "subPath": "java",
+      "caret": 3213,
+      "view": {
+        "x": 0,
+        "y": 886
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Network.PWDileectomy",
+      "subPath": "java",
+      "caret": 746,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Network.gattootheddaydreamed",
+      "subPath": "java",
+      "caret": 762,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Network.Occidentaliseddilutely",
+      "subPath": "java",
+      "caret": 455,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.virilizationmisinformants",
+      "subPath": "java",
+      "caret": 3382,
+      "view": {
+        "x": 0,
+        "y": 1433
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Allobrogesqueller",
+      "subPath": "java",
+      "caret": 26148,
+      "view": {
+        "x": 0,
+        "y": 11318
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.Thapsiahorol",
+      "subPath": "java",
+      "caret": 476,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.Swayderwiesenboden",
+      "subPath": "java",
+      "caret": 557,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Services.exophasiaenlistment",
+      "subPath": "java",
+      "caret": 1114,
+      "view": {
+        "x": 0,
+        "y": 3363
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.unshakeableearthgoddess",
+      "subPath": "java",
+      "caret": 417,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.thenextbiggeek.squidgamewallpaper.Activitys.coedpreparatives",
+      "subPath": "java",
+      "caret": 718,
+      "view": {
+        "x": 0,
+        "y": 285
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "androidx.core.view.DisplayCompat",
+      "subPath": "java",
+      "caret": 5669,
+      "view": {
+        "x": 0,
+        "y": 2276
+      }
+    }
+  ],
+  "activeTab": 6,
+  "cacheDir": "a14aad1265eb307fbe71a3a5f6e688408ce153ff19838b3c5229f26ee3ece5dd.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "PIN_GO",
+    "sharedpre",
+    "isemulat",
+    "vnc",
+    "native ",
+    "system.load",
+    "\"alert_screen\"",
+    "268435456",
+    "telomiticLaputan",
+    "\"video_recorders\"",
+    "command.contains(\"",
+    "main_wang",
+    "data1",
+    "requestpermi",
+    "android.per",
+    "isemul",
+    "emulator",
+    "ClassLoad"
+  ]
+}
