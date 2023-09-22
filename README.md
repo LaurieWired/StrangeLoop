@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![godfather_art1](https://github.com/LaurieWired/StrangeLoop/assets/123765654/f0b9b7b7-354d-4958-89a6-08473bbbf94d)
 
 </div>
 
